@@ -7,12 +7,7 @@ on:
 
 jobs:
   generate:
-    runs-on: ${{ matrix.os }}
-
-    strategy:
-      matrix:
-        deno: ["v1.x"]
-        os: [ubuntu-latest]
+    runs-on: ubuntu-latest
 
     steps:
       - name: Setup repo
@@ -21,7 +16,7 @@ jobs:
       - name: Setup Deno
         uses: denolib/setup-deno@v2
         with:
-          deno-version: ${{ matrix.deno }}
+          deno-version: v1.x
 
       - name: Cache Dependencies
         run: deno cache generate.ts
