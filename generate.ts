@@ -10,4 +10,4 @@ const output = `
 <sup>Automatically generated ${time}</sup>
 `.trim();
 
-Deno.writeTextFile('README.md', output);
+await Deno.writeTextFile('README.md', output);
