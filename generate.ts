@@ -1,4 +1,4 @@
-// Variable configuration
+/// Variable configuration
 
 const time = new Date(Date.now()).toUTCString();
 
