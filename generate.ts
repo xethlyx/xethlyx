@@ -12,7 +12,7 @@ I'm probably proficient in TypeScript. Currently interested in learning Rust!
 
 ## 💻 Favorite Technologies
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=Visual+Studio+Code&logoColor=ffffff&color=1e77ef)
-![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=TypeScript&logoColor=ffffff&color=1e77ef)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=TypeScript&logoColor=ffffff&color=1e77ef)
 ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=Rust&logoColor=ffffff&color=1e77ef)
 ![](https://img.shields.io/badge/Technology-Docker-informational?style=flat&logo=Docker&logoColor=ffffff&color=1e77ef)
 ![](https://img.shields.io/badge/Technology-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=ffffff&color=1e77ef)
