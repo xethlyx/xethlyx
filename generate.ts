@@ -8,9 +8,10 @@ const output = `
 
 
 # Hi there 👋
-I'm probably proficient in TypeScript. Currently interested in learning Rust!
+I'm probably proficient in TypeScript and Rust.
 
 ## 💻 Favorite Technologies
+![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=Neovim&logoColor=ffffff&color=1e77ef)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=Visual+Studio+Code&logoColor=ffffff&color=1e77ef)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=TypeScript&logoColor=ffffff&color=1e77ef)
 ![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=Rust&logoColor=ffffff&color=1e77ef)
