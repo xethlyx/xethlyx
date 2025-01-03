@@ -12,14 +12,14 @@ I'm probably proficient in TypeScript and Rust.
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=ffffff&color=1e77ef)
 
 
-## 📝 Github Stats
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xethlyx&count_private=true&show_icons=true&line_height=27&icon_color=1e77ef&text_color=e1e3e8&bg_color=171822&title_color=1e77ef&border_color=242633&border_radius=5">
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xethlyx&langs_count=3&text_color=e1e3e8&bg_color=171822&title_color=1e77ef&border_color=242633&border_radius=5">
-</a>
+// ## 📝 Github Stats
+// <a href="#">
+//   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xethlyx&count_private=true&show_icons=true&line_height=27&icon_color=1e77ef&text_color=e1e3e8&bg_color=171822&title_color=1e77ef&border_color=242633&border_radius=5">
+// </a>
+// <a href="#">
+//   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xethlyx&langs_count=3&text_color=e1e3e8&bg_color=171822&title_color=1e77ef&border_color=242633&border_radius=5">
+// </a>
 
 
 ---
-<sup>Automatically generated Sun, 29 Dec 2024 01:19:59 GMT</sup>
+<sup>Automatically generated Fri, 03 Jan 2025 23:00:45 GMT</sup>
